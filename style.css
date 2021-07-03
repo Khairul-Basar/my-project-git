@@ -4,3 +4,13 @@ h1{
 h2{
   color: darkgreen;
 }
+h3{
+  text-align: justify;
+  background-color: bisque;
+}
+
+h4{
+  font-family: 'Courier New', Courier, monospace;
+  color: aliceblue;
+  background-color: darkgrey;
+}
